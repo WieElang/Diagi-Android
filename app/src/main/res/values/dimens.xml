@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_line_height">18sp</dimen>
+    <dimen name="letter_spacing">0.5sp</dimen>
+    <dimen name="small_text_size">10sp</dimen>
+    <dimen name="medium_text_size">14sp</dimen>
+    <dimen name="large_text_size">18sp</dimen>
+    <dimen name="large_title_text">20sp</dimen>
+    <dimen name="header_title_text">18sp</dimen>
+
+    <!--  Splashscreen  -->
+    <dimen name="width_splash_screen_icon_size">68dp</dimen>
+    <dimen name="height_splash_screen_icon_size">78dp</dimen>
+</resources>
